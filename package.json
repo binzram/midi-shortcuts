@@ -1,13 +1,13 @@
 {
   "name": "midi-shortcuts",
   "main": "./lib/midi-shortcuts",
-  "version": "0.0.1",
-  "description": "A short description of your package",
+  "version": "1.0.0",
+  "description": "A midi snipped controller",
   "keywords": [],
   "activationEvents": [
     "atom-plugin:run"
   ],
-  "repository": "https://github.com/atom/midi-shortcuts",
+  "repository": "https://github.com/binzram/midi-shortcuts",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
