@@ -4,7 +4,9 @@
   "version": "0.0.1",
   "description": "A short description of your package",
   "keywords": [],
-  "activationEvents": ["atom-plugin:run"],
+  "activationEvents": [
+    "atom-plugin:run"
+  ],
   "repository": "https://github.com/atom/midi-shortcuts",
   "license": "MIT",
   "engines": {
